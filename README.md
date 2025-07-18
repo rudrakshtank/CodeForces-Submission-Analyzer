@@ -20,4 +20,14 @@ It returns:
 
 The extension icon will appear in the toolbar. Click it, paste a submission link, and press **Analyze**.
 
+## 📁 Files Included
+
+| File | Description |
+|------|-------------|
+| `manifest.json` | Configuration file that defines extension metadata, permissions, and scripts. |
+| `popup.html` | Markup for the extension's popup interface shown on clicking the icon. |
+| `popup.js` | Contains the JavaScript logic for fetching and analyzing Codeforces submissions. |
+| `styles.css` | Stylesheet for customizing the layout and design of the popup interface. |
+
+
 *API key is embedded for demonstration only in working.*
