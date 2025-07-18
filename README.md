@@ -14,7 +14,7 @@ It returns:
 
 1. Download and extract `codeforces_submission_analyzer` files.
 2. Paste your **together.ai** api key.
-3. Open **chrome://extensions** in Chrome.
+3. Open `chrome://extensions` in Chrome.
 4. Enable **Developer mode** (top-right).
 5. Click **Load unpacked** and select the extracted folder.
 
