@@ -3,14 +3,14 @@
 
 This extension lets you paste a Codeforces submission URL. If the submission verdict is **Accepted**, it sends the source code to Together AI:
 
-## ✨ Features
+## Features
 It returns:
 - **Time complexity**
 - **Space complexity**
 - **Efficiency commentary**
 - **Practical suggestions to improve the code**
 
-## 📥 Installation
+## Installation
 
 1. Download and extract `codeforces_submission_analyzer` files.
 2. Paste your **together.ai** api key.
@@ -20,7 +20,7 @@ It returns:
 
 The extension icon will appear in the toolbar. Click it, paste a submission link, and press **Analyze**.
 
-## 📁 Files Included
+## Files Included
 
 | File | Description |
 |------|-------------|
